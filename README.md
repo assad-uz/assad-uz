@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **assad.uz255@gmail.com**
 
-- ⚡ Fun fact **I love solving small bugs that make big problems vanish.**
+- - ⚡ Fun fact: **I love fixing tiny bugs that make big problems disappear 🐞✨**
 
 - 👨‍💻 All of my projects are available at **[https://assad-uz.top/](https://assad-uz.top/)**
 
