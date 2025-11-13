@@ -4,9 +4,10 @@
 </p>
 
 <!-- 💬 Typing SVG Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Assaduzzaman+Shaon;A+Passionate+Full-Stack+Web+Developer;PHP+%26+Laravel+Enthusiast;React+Learner" alt="Typing Animation" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Assaduzzaman+Shaon;A+Passionate+Full-Stack+Web+Developer)](https://git.io/typing-svg)
+
+
+
 
 ---
 
