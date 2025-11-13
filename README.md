@@ -1,4 +1,6 @@
-<video controls> <source src="https://youtu.be/PXMXNuGyL4k.mp4" type="video/mp4">
+<div align="right">
+  [![My profile video](https://img.youtube.com/vi/PXMXNuGyL4k/maxresdefault.jpg)](https://www.youtube.com/watch?v=PXMXNuGyL4k)
+</div>
 
 # Hi 👋, I'm Assaduzzaman Shaon
 
