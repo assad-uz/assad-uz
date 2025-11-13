@@ -1,11 +1,21 @@
-![Banner](https://raw.githubusercontent.com/assad-uz/assad-uz/main/banner.gif)
+<!-- 💬 ব্যানার GIF (সেন্টার করা হয়েছে যাতে সুন্দরভাবে দেখা যায়) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/assad-uz/assad-uz/main/banner.gif" alt="Assaduzzaman Shaon Banner" width="100%" />
+</p>
 
+<!-- 💬 টাইপিং SVG অ্যানিমেশন -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Assaduzzaman+Shaon;A+Passionate+Full-Stack+Web+Developer;PHP+%26+Laravel+Enthusiast;React+Learner" alt="Typing Animation" />
+</p>
+
+---
 
 # Hi 👋, I'm Assaduzzaman Shaon
-
 ### A passionate full-stack web application developer.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=assad-uz&label=Profile views&color=0e75b6&style=flat" alt="assad-uz" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=assad-uz&label=Profile+Views&color=0e75b6&style=flat" alt="assad-uz" />
+</p>
 
 - 📫 How to reach me **assad.uz255@gmail.com**
 
@@ -15,18 +25,47 @@
 
 - 📄 Know about my experiences **[https://bit.ly/live-cv-2025](https://bit.ly/live-cv-2025)**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/assad-uz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="assad-uz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/assad-uz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="assad-uz" height="30" width="40" /></a>
+  <a href="https://github.com/assad-uz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/assad-uz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sculpin" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="sculpin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=assad-uz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="assad-uz" /></p>
+<h3 align="left">🛠️ Languages and Tools:</h3>
+<p align="left">
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="Bootstrap"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS"/></a>
+  <a href="https://www.javascript.com" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript"/></a>
+  <a href="https://www.php.net" target="_blank"><img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP"/></a>
+  <a href="https://laravel.com" target="_blank"><img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" alt="Laravel"/></a>
+  <a href="https://reactjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React"/></a>
+  <a href="https://vuejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=vue" width="40" height="40" alt="Vue"/></a>
+  <a href="https://www.mysql.com" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL"/></a>
+  <a href="https://www.postman.com" target="_blank"><img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman"/></a>
+  <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=assad-uz&show_icons=true&locale=en&theme=tokyonight" alt="assad-uz" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=assad-uz&theme=tokyonight" alt="assad-uz" /></p>
+<h3 align="center">📊 GitHub Stats:</h3>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=assad-uz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=assad-uz&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=assad-uz&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">✨ Thanks for visiting my profile! Have a great day! ✨</p>
