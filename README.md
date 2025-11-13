@@ -1,6 +1,5 @@
-<div align="right">
-  [![My profile video](https://img.youtube.com/vi/PXMXNuGyL4k/maxresdefault.jpg)](https://www.youtube.com/watch?v=PXMXNuGyL4k)
-</div>
+![Banner](https://raw.githubusercontent.com/assad-uz/assad-uz/main/banner.gif)
+
 
 # Hi 👋, I'm Assaduzzaman Shaon
 
