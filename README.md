@@ -26,31 +26,39 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 
-<div align="center" style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+<!-- ✅ Responsive Table Layout -->
+<div align="center">
+  <table>
+    <tr>
+      <!-- Left: Social Links -->
+      <td align="left" style="vertical-align: top; padding-right: 20px;">
+        <p align="left">
+          <a href="https://github.com/assad-uz" target="_blank">
+            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+          </a>
 
-  <!-- Left side: Social links -->
-  <p align="left" style="flex: 1;">
-    <a href="https://github.com/assad-uz" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-    </a>
+          <a href="https://linkedin.com/in/assad-uz" target="_blank">
+            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+          </a>
 
-    <a href="https://linkedin.com/in/assad-uz" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
+          <a href="mailto:assad.uz255@gmail.com" target="_blank">
+            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
+          </a>
 
-    <a href="mailto:assad.uz255@gmail.com" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
-    </a>
+          <a href="https://assad-uz.top/" target="_blank">
+            <img align="center" src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" height="30" width="40" />
+          </a>
+        </p>
+      </td>
 
-    <a href="https://assad-uz.top/" target="_blank">
-      <img align="center" src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" height="30" width="40" />
-    </a>
-  </p>
-
-  <!-- Right side: GIF -->
-  <img src="./animate.gif" alt="Coding animation" align="right" width="200" style="border-radius: 10px;"/>
-
+      <!-- Right: GIF -->
+      <td align="right">
+        <img src="./animate.gif" alt="Coding animation" width="200" style="border-radius: 10px;" />
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 
 
