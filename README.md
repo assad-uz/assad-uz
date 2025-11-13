@@ -53,11 +53,12 @@
 
       <!-- Right: GIF -->
       <td align="right">
-        <img src="./animate.gif" alt="Coding animation" width="200" style="border-radius: 10px;" />
+        <img src="./animate.gif" alt="Coding animation" width="200" />
       </td>
     </tr>
   </table>
 </div>
+
 
 
 
