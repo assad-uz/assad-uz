@@ -5,7 +5,7 @@
 
 <!-- 💬 Typing SVG Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=header&text=👋%20I'm%20Assaduzzaman%20Shaon%20|%20Full-Stack%20Developer&fontSize=24&fontColor=fff&animation=fadeIn" alt="Assad Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Assaduzzaman+Shaon;A+Passionate+Full-Stack+Web+Developer;PHP+%26+Laravel+Enthusiast;React+Learner" alt="Typing Animation" />
 </p>
 
 ---
