@@ -10,10 +10,6 @@
 
 
 ---
-
-# Hi 👋, I'm Assaduzzaman Shaon
-### A passionate full-stack web application developer.
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=assad-uz&label=Profile+Views&color=0e75b6&style=flat" alt="assad-uz" />
 </p>
