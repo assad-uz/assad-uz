@@ -1,11 +1,11 @@
-<!-- 💬 ব্যানার GIF (সেন্টার করা হয়েছে যাতে সুন্দরভাবে দেখা যায়) -->
+<!-- 💬 Banner GIF -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/assad-uz/assad-uz/main/banner.gif" alt="Assaduzzaman Shaon Banner" width="100%" />
 </p>
 
-<!-- 💬 টাইপিং SVG অ্যানিমেশন -->
+<!-- 💬 Typing SVG Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Assaduzzaman+Shaon;A+Passionate+Full-Stack+Web+Developer;PHP+%26+Laravel+Enthusiast;React+Learner" alt="Typing Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=header&text=👋%20I'm%20Assaduzzaman%20Shaon%20|%20Full-Stack%20Developer&fontSize=24&fontColor=fff&animation=fadeIn" alt="Assad Typing Animation"/>
 </p>
 
 ---
@@ -28,10 +28,34 @@
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://github.com/assad-uz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/assad-uz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-</p>
+
+<div align="center" style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+
+  <!-- Left side: Social links -->
+  <p align="left" style="flex: 1;">
+    <a href="https://github.com/assad-uz" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+    </a>
+
+    <a href="https://linkedin.com/in/assad-uz" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
+
+    <a href="mailto:assad.uz255@gmail.com" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
+    </a>
+
+    <a href="https://assad-uz.top/" target="_blank">
+      <img align="center" src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" height="30" width="40" />
+    </a>
+  </p>
+
+  <!-- Right side: GIF -->
+  <img src="./animate.gif" alt="Coding animation" align="right" width="200" style="border-radius: 10px;"/>
+
+</div>
+
+
 
 ---
 
