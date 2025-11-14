@@ -16,6 +16,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=assad-uz&label=Profile+Views&color=0e75b6&style=flat" alt="assad-uz" />
 </p>
+<h3>🧑‍💻 About Me: <h3>
 
 - 📫 How to reach me **assad.uz255@gmail.com**
 
@@ -27,7 +28,7 @@
 
 ---
 <img align="right" src="animate.gif" width="300px" alt="Gif"/>
-<h3 align="left">🌐 Connect with me:</h3>
+<h3 align="left">🌏 Connect with me:</h3>
         <p align="left">
           <a href="https://github.com/assad-uz" target="_blank">
             <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
