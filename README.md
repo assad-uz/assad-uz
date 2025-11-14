@@ -30,8 +30,6 @@
 
 ---
 
-  <img align="right" src="animate.gif" width="300" alt="Coding animation GIF"/>
-
 <div align="left">
   <h3>🌏 Connect with me:</h3>
   <p>
@@ -53,6 +51,8 @@
 <br clear="right"/>
 
 ---
+
+<img align="right" src="animate.gif" width="300" alt="Coding animation GIF"/>
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
