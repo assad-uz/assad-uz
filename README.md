@@ -27,8 +27,6 @@
 ---
 <img align="right" src="animate.gif" width="300" alt="Coding animation GIF"/>
 
-<img align="right" src="https://komarev.com/ghpvc/?username=assad-uz&label=Profile+Views&color=0e75b6&style=flat" alt="assad-uz" />
-
 <div align="left">
   <h3 style="margin-top: 0;">🌏 Connect with me:</h3>
   <p>
@@ -46,6 +44,7 @@
     </a>
   </p>
 </div>
+<img align="center" src="https://komarev.com/ghpvc/?username=assad-uz&label=Profile+Views&color=0e75b6&style=flat" alt="assad-uz" />
 
 <br clear="right"/>
 
