@@ -26,11 +26,11 @@
 
 ---
 <img align="right" src="animate.gif" width="300" alt="Coding animation GIF"/>
-<br clear="right"/>
+
 <img align="right" src="https://komarev.com/ghpvc/?username=assad-uz&label=Profile+Views&color=0e75b6&style=flat" alt="assad-uz" />
 
-
-  <h3 align="left">🌏 Connect with me:</h3>
+<div align="left">
+  <h3 style="margin-top: 0;">🌏 Connect with me:</h3>
   <p>
     <a href="https://github.com/assad-uz" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
@@ -45,10 +45,9 @@
       <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" height="30" width="40" />
     </a>
   </p>
-<!-- <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=assad-uz&label=Profile+Views&color=0e75b6&style=flat" alt="assad-uz" />
-</p> -->
+</div>
 
+<br clear="right"/>
 
 ---
 
