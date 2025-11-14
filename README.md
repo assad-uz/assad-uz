@@ -24,7 +24,7 @@
 
 - 📄 Know about my experiences **[https://bit.ly/live-cv-2025](https://bit.ly/live-cv-2025)**
 
-<p align="left">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=assad-uz&label=Profile+Views&color=0e75b6&style=flat" alt="assad-uz" />
 </p>
 
