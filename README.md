@@ -53,8 +53,8 @@
 ---
 
 <img align="right" src="animate.gif" width="300" alt="Coding animation GIF"/>
-
-<h3 align="left">🛠️ Languages and Tools:</h3>
+<div align="left">
+<h3>🛠️ Languages and Tools:</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS"/></a>
@@ -68,6 +68,7 @@
   <a href="https://www.postman.com" target="_blank"><img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman"/></a>
   <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/></a>
 </p>
+</div>
 
 ---
 
