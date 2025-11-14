@@ -82,8 +82,6 @@
 </div>
 
 ---
-
-<!-- <p align="center">✨ Thanks for visiting my profile! Have a great day! ✨</p> -->
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=header&text=✨ Thanks for visiting my profile! Have a great day! ✨&fontSize=24&fontColor=fff&animation=fadeIn" 
