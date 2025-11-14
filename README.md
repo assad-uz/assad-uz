@@ -84,10 +84,6 @@
 ---
 
 <!-- <p align="center">✨ Thanks for visiting my profile! Have a great day! ✨</p> -->
-<div align="center" style="background-color: #3d342aff; padding: 10px; border-radius: 5px;">
-  <p style="margin: 0;">
-    <strong>
-      <font size="5" color="#ffffffff">✨ Thanks for visiting my profile! Have a great day! ✨</font>
-    </strong>
-  </p>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Thanks_for_visiting_my_profile!_Have_a_great_day!-e6ccb2?style=for-the-badge&logoColor=black" alt="Thanks for visiting message"/>
+</p>
