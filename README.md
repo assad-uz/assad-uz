@@ -48,9 +48,9 @@
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="Bootstrap"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS"/></a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="Bootstrap"/></a>
   <a href="https://www.javascript.com" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript"/></a>
   <a href="https://www.php.net" target="_blank"><img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP"/></a>
   <a href="https://laravel.com" target="_blank"><img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" alt="Laravel"/></a>
@@ -69,11 +69,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=assad-uz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=assad-uz&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=assad-uz&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
