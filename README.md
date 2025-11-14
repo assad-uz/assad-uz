@@ -65,17 +65,21 @@
 
 <h3 align="center">📊 GitHub Stats:</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=assad-uz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=assad-uz&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="right">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=assad-uz&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding-right: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=assad-uz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+      </td>
+      <td align="center" style="padding-right: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=assad-uz&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=assad-uz&theme=tokyonight" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
