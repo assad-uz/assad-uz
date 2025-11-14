@@ -29,32 +29,29 @@
 </p>
 
 ---
-<div align="center">
-  <table>
-    <tr>
-      <td align="left" style="vertical-align: top;">
-        <h3 style="margin-top: 0;">🌏 Connect with me:</h3>
-        <p style="margin-bottom: 0;">
-          <a href="https://github.com/assad-uz" target="_blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-          </a>
-          <a href="https://linkedin.com/in/assad-uz" target="_blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-          </a>
-          <a href="mailto:assad.uz255@gmail.com" target="_blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
-          </a>
-          <a href="https://assad-uz.top/" target="_blank">
-            <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" height="30" width="40" />
-          </a>
-        </p>
-      </td>
-      <td align="right" style="padding-left: 20px;">
-        <img src="animate.gif" width="300" alt="Coding animation GIF"/>
-      </td>
-    </tr>
-  </table>
+<div align="right">
+  <img src="animate.gif" width="300" alt="Coding animation GIF"/>
 </div>
+
+<div>
+  <h3>🌏 Connect with me:</h3>
+  <p>
+    <a href="https://github.com/assad-uz" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+    </a>
+    <a href="https://linkedin.com/in/assad-uz" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
+    <a href="mailto:assad.uz255@gmail.com" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
+    </a>
+    <a href="https://assad-uz.top/" target="_blank">
+      <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" height="30" width="40" />
+    </a>
+  </p>
+</div>
+
+<br clear="right"/>
 
 ---
 
