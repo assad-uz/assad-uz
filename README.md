@@ -26,15 +26,8 @@
 - 📄 Know about my experiences **[https://bit.ly/live-cv-2025](https://bit.ly/live-cv-2025)**
 
 ---
-
+<img align="right" src="animate.gif" width="300px" alt="Gif"/>
 <h3 align="left">🌐 Connect with me:</h3>
-
-<!-- ✅ Responsive Table Layout -->
-<div align="center">
-  <table>
-    <tr>
-      <!-- Left: Social Links -->
-      <td align="left" style="vertical-align: top; padding-right: 20px;">
         <p align="left">
           <a href="https://github.com/assad-uz" target="_blank">
             <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
@@ -49,14 +42,6 @@
             <img align="center" src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" height="30" width="40" />
           </a>
         </p>
-      </td>
-      <!-- Right: GIF -->
-      <td align="right">
-        <img src="./animate.gif" alt="Coding animation" width="200" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
 
