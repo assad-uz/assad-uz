@@ -33,7 +33,7 @@
   <img src="animate.gif" width="300" alt="Coding animation GIF"/>
 </div>
 
-<div>
+<div align="left">
   <h3>🌏 Connect with me:</h3>
   <p>
     <a href="https://github.com/assad-uz" target="_blank">
