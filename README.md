@@ -50,7 +50,7 @@
 
 <img align="right" src="animate.gif" width="300" alt="Coding animation GIF"/>
 
-<div align="left">
+<div align="center">
   <h3>🛠️ Languages and Tools:</h3>
   
   <table>
