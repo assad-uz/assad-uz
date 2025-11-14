@@ -87,7 +87,7 @@
 <div align="center" style="background-color: #e6ccb2; padding: 10px; border-radius: 5px;">
   <p style="margin: 0;">
     <strong>
-      <font size="5" color="#000000ff">✨ Thanks for visiting my profile! Have a great day! ✨</font>
+      <font size="5" color="#5a1616ff">✨ Thanks for visiting my profile! Have a great day! ✨</font>
     </strong>
   </p>
 </div>
