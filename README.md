@@ -85,5 +85,5 @@
 
 <!-- <p align="center">✨ Thanks for visiting my profile! Have a great day! ✨</p> -->
 <p align="center">
-  <img src="https://img.shields.io/badge/✨_Thanks_for_visiting_my_profile!_Have_a_great_day!✨-e6ccb2?style=for-the-badge&logoColor=black" alt="Thanks for visiting message"/>
+  <img src="https://img.shields.io/badge/✨_Thanks_for_visiting_my_profile!_Have_a_great_day!✨-0f4c5c?style=for-the-badge&logoColor=white" alt="Thanks for visiting message"/>
 </p>
