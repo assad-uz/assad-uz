@@ -25,8 +25,10 @@
 - 📄 Know about my experiences **[https://bit.ly/live-cv-2025](https://bit.ly/live-cv-2025)**
 
 ---
-<img align="right" src="programmer.gif" width="300" alt="Coding animation GIF"/>
+<img align="right" src="animate.gif" width="300" alt="Coding animation GIF"/>
+<img align="right" src="https://komarev.com/ghpvc/?username=assad-uz&label=Profile+Views&color=0e75b6&style=flat" alt="assad-uz" />
 <br clear="right"/>
+
   <h3 align="left">🌏 Connect with me:</h3>
   <p>
     <a href="https://github.com/assad-uz" target="_blank">
@@ -49,7 +51,7 @@
 
 ---
 
-<img align="right" src="animate.gif" width="300" alt="Coding animation GIF"/>
+<img align="right" src="programmer.gif" width="300" alt="Coding animation GIF"/>
 
 <div align="left">
   <h3>🛠️ Languages and Tools:</h3>
