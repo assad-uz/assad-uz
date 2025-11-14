@@ -27,6 +27,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=assad-uz&label=Profile+Views&color=0e75b6&style=flat" alt="assad-uz" />
 </p>
+
 ---
 <img align="right" src="animate.gif" width="300px" alt="Gif"/>
 <h3 align="center">🌏 Connect with me:</h3>
