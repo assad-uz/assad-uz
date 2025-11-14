@@ -5,6 +5,7 @@
 
 <!-- 💬 Typing SVG Animation -->
 <div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=dda15e&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Assaduzzaman+Shaon;A+Passionate+Full-Stack+Web+Developer;Dedicated+to+continuous+learning+and+improvement.)](https://git.io/typing-svg)
 </div>
 
