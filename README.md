@@ -29,9 +29,8 @@
 </p>
 
 ---
-<div align="right">
-  <img src="animate.gif" width="300" alt="Coding animation GIF"/>
-</div>
+
+  <img align="right" src="animate.gif" width="300" alt="Coding animation GIF"/>
 
 <div align="left">
   <h3>🌏 Connect with me:</h3>
