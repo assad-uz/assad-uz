@@ -69,10 +69,10 @@
   <table>
     <tr>
       <td align="center" style="padding-right: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=assad-uz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api?username=assad-uz&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
       </td>
       <td align="center" style="padding-right: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=assad-uz&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=assad-uz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
       </td>
       <td align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=assad-uz&theme=tokyonight" alt="GitHub Streak" />
