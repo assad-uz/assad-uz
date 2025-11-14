@@ -7,10 +7,8 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=dda15e&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Assaduzzaman+Shaon;A+Passionate+Full-Stack+Web+Developer;Dedicated+to+continuous+learning+and+improvement.)](https://git.io/typing-svg)
+
 </div>
-
-
-
 
 ---
 
@@ -25,6 +23,7 @@
 - 📄 Know about my experiences **[https://bit.ly/live-cv-2025](https://bit.ly/live-cv-2025)**
 
 ---
+
 <img align="right" src="animate.gif" width="300" alt="Coding animation GIF"/>
 
 <div align="left">
@@ -37,11 +36,11 @@
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     </a>
     <a href="mailto:assad.uz255@gmail.com" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
+      <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="30" width="40" />
     </a>
     <a href="https://assad-uz.top/" target="_blank">
-      <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" height="30" width="40" />
-    </a>
+  <img src="https://skillicons.dev/icons?i=website" alt="Portfolio" height="30" width="40" />
+</a>
   </p>
 </div>
 
