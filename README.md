@@ -26,7 +26,7 @@
 
 ---
 
-  <h3 align="center">🌏 Connect with me:</h3>
+  <h3 align="left">🌏 Connect with me:</h3>
   <p>
     <a href="https://github.com/assad-uz" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
