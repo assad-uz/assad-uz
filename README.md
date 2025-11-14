@@ -30,8 +30,7 @@
 
 ---
 
-<div align="left">
-  <h3>🌏 Connect with me:</h3>
+  <h3 align="center">🌏 Connect with me:</h3>
   <p>
     <a href="https://github.com/assad-uz" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
@@ -46,28 +45,34 @@
       <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" height="30" width="40" />
     </a>
   </p>
-</div>
-
-<br clear="right"/>
 
 ---
 
 <img align="right" src="animate.gif" width="300" alt="Coding animation GIF"/>
+
 <div align="left">
-<h3>🛠️ Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="Bootstrap"/></a>
-  <a href="https://www.javascript.com" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript"/></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP"/></a>
-  <a href="https://laravel.com" target="_blank"><img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" alt="Laravel"/></a>
-  <a href="https://reactjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React"/></a>
-  <a href="https://vuejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=vue" width="40" height="40" alt="Vue"/></a>
-  <a href="https://www.mysql.com" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL"/></a>
-  <a href="https://www.postman.com" target="_blank"><img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman"/></a>
-  <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/></a>
-</p>
+  <h3>🛠️ Languages and Tools:</h3>
+  
+  <table>
+    <tr>
+      <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML"/></a></td>
+      <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS"/></a></td>
+      <td align="center"><a href="https://getbootstrap.com" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="Bootstrap"/></a></td>
+      <td align="center"><a href="https://www.javascript.com" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript"/></a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://www.php.net" target="_blank"><img src="https://skillicons.dev/icons?i=php" width="50" height="50" alt="PHP"/></a></td>
+      <td align="center"><a href="https://laravel.com" target="_blank"><img src="https://skillicons.dev/icons?i=laravel" width="50" height="50" alt="Laravel"/></a></td>
+      <td align="center"><a href="https://reactjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React"/></a></td>
+      <td align="center"><a href="https://vuejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=vue" width="50" height="50" alt="Vue"/></a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://www.mysql.com" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL"/></a></td>
+      <td align="center"><a href="https://www.postman.com" target="_blank"><img src="https://skillicons.dev/icons?i=postman" width="50" height="50" alt="Postman"/></a></td>
+      <td align="center"><a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/></a></td>
+      <td></td> </tr>
+  </table>
+  
 </div>
 
 <br clear="right"/>
