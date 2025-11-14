@@ -48,9 +48,9 @@
 
 ---
 
-<img align="right" src="animate.gif" width="300" alt="Coding animation GIF" style="padding-right: 20px;"/>
+<img align="right" src="animate.gif" width="300" alt="Coding animation GIF"/>
 
-<div align="center">
+<div align="left">
   <h3>🛠️ Languages and Tools:</h3>
   
   <table>
