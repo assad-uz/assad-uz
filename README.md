@@ -14,7 +14,7 @@
 
 ---
 
-<h3 align="center">🧑‍💻 About Me: <h3>
+<h3 align="left">🧑‍💻 About Me: <h3>
 
 - 📫 How to reach me **assad.uz255@gmail.com**
 
@@ -23,10 +23,6 @@
 - 👨‍💻 All of my projects are available at **[https://assad-uz.top/](https://assad-uz.top/)**
 
 - 📄 Know about my experiences **[https://bit.ly/live-cv-2025](https://bit.ly/live-cv-2025)**
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=assad-uz&label=Profile+Views&color=0e75b6&style=flat" alt="assad-uz" />
-</p>
 
 ---
 
@@ -45,6 +41,10 @@
       <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" height="30" width="40" />
     </a>
   </p>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=assad-uz&label=Profile+Views&color=0e75b6&style=flat" alt="assad-uz" />
+</p>
+
 
 ---
 
